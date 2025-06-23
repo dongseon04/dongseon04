@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF3B0&height=150&width=1000&section=footer&text=KimDongSeon();&fontColor=0A1172&fontSize=60&animation=twinkling" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF3B0&height=150&width=10000&section=footer&text=KimDongSeon();&fontColor=0A1172&fontSize=60&animation=twinkling" alt="footer"/>
 
-<h1 align="center">Hi 👋, I'm Kim Dong Seon</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">나사렛대학교 IT인공지능학부</h3>
 
 - 🌱 I’m currently learning **2025 로봇 응용 SW 전문가 양성 교육 과정**  
