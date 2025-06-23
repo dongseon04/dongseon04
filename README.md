@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF3B0&height=150&width=10000&section=footer&text=KimDongSeon();&fontColor=0A1172&fontSize=60&animation=twinkling" alt="footer"/>
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+</p>
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">나사렛대학교 IT인공지능학부</h3>
+<h1 align="center">나사렛대학교 IT인공지능학부 김동선</h1>
 
 - 🌱 I’m currently learning **2025 로봇 응용 SW 전문가 양성 교육 과정**  
 - 👨‍💻 Check out my portfolio: [dongseon04.github.io/profile](https://dongseon04.github.io/profile/)  
