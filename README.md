@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kim Dong Seon</h1>
-<h3 align="center">IT & AI Student at Korea Nazarene University</h3>
+<h3 align="center">나사렛대학교 IT인공지능학부</h3>
 
 - 🌱 I’m currently learning **2025 로봇 응용 SW 전문가 양성 교육 과정**  
 - 👨‍💻 Check out my portfolio: [dongseon04.github.io/profile](https://dongseon04.github.io/profile/)  
